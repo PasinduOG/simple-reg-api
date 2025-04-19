@@ -109,18 +109,11 @@ The application uses the following environment variables:
 | Variable | Description | Default |
 |----------|-------------|---------|
 | PORT | Port number for the server | 3000 |
-| DB_HOST | Database host | localhost |
-| DB_USER | Database user | root |
-| DB_PASSWORD | Database password | - |
-| DB_NAME | Database name | user_registration |
-| DB_PORT | Database port | 3306 |
 
 ## Technologies Used
 
 - Node.js
 - Express.js
-- MySQL (configured but not implemented yet)
-- bcrypt (configured for password hashing but not implemented yet)
 - dotenv (for environment variable management)
 
 ## Future Improvements
