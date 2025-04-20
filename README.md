@@ -2,11 +2,9 @@
 
 > A simple REST API for user registration built with Express.js. This API validates and processes user registration data with specific validation for Gmail addresses and Sri Lankan mobile numbers.
 
-<div align="center">
+<div align="start">
   
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql&perline=12)](https://skillicons.dev)
 
 </div>
 
