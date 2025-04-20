@@ -118,7 +118,10 @@ The application uses the following environment variables:
 
 The application is set up for database integration but currently only validates user input. Future improvements will:
 
-1. Implement database integration to store user data
+1. Implement MySQL database integration to store user data
+   - Create user table with appropriate columns for name, email, password, mobile
+   - Set up connection pooling for optimal performance
+   - Implement database transaction handling
 2. Add password hashing using bcrypt
 3. Check for existing email addresses to prevent duplicates
 4. Add user authentication and session management
@@ -130,3 +133,4 @@ MIT License - See LICENSE file for details
 ## Author
 
 Pasindu Madhuwantha
+````
