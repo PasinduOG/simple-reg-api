@@ -179,7 +179,7 @@ OR
 - dotenv (for environment variable management)
 - mysql2 (MySQL client for Node.js)
 
-## Future Improvements
+<!-- ## Future Improvements
 
 The application has implemented many of the planned features. Future improvements will:
 
@@ -192,7 +192,7 @@ The application has implemented many of the planned features. Future improvement
    - Change password functionality
 3. Implement email verification
 4. Add password reset functionality
-5. Add admin dashboard
+5. Add admin dashboard -->
 
 ## Project Structure
 
